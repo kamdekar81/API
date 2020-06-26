@@ -59,7 +59,6 @@ public void addUserApi()
 
 		System.out.println("-----Great Work-----");
 		System.out.println("-----Great Work-----");
-	System.out.println("-----Great Work-----");
 
 		getUser = new GetTests(userName);
 	    getUserResult = getUser.getUserApi(
